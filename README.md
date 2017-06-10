@@ -9,7 +9,7 @@
 This was a mini project given to us for the course, `Programming using java`
 during the academic year 2013-2014 .
 
-![Screenshot](Screenshot.jpg)
+![Screenshot](Screenshot.png)
 
 #### How to play :
 
