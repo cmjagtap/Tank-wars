@@ -3,7 +3,7 @@
 #### AUTHOR:
 
 - [Chandramohan Jagtap](https://github.com/cmjagtap "Chandramohan's github profile")
-- [Saurabh Borse] 
+- [Saurabh Borse](https://github.com/SaurabhBorse "Saurabh's Github profile")
 
 #### DESCRIPTION:
 This was a mini project given to us for the course, `Programming using java`
